@@ -16,7 +16,7 @@
   <p><b>Name : </b>Vishwajeet Soni<br><b>Education : </b>First Year BCA Student at Bennett University.<br> Welcome to my portfolio website.</p>
   
  
-  <img src="image.jpg" alt="image"  width="150" >
+  <img src="image.jpg" alt="A person standing on a balcony with yellow and white railings, wearing a black hoodie with red and white text, surrounded by lush green trees and hills under a cloudy sky, relaxed and contemplative mood" width="150">
   <hr>
 
   <h2 id="about">About Me</h2>
